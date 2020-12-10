@@ -1,0 +1,44 @@
+body {
+    background: #41ACB0;
+    font: normal 20pt arial;
+}
+
+header {
+    color: #FFFF;
+    text-align: center;
+}
+
+section {
+    background: #C6F9FA;
+    border-radius: 10px;
+    padding: 15px;
+    width: 750px;
+    margin: auto;
+    box-shadow: 5px 5px 10px 10px rgba(7, 7, 7, 0.411);
+}
+
+footer {
+    color: #FFFF;
+    text-align: center;
+    font-style: italic;
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+}
+
+input.botao {
+    height: 50px;
+    width: 100px;
+    color: white;
+    background: #0850a3;
+}
+
+input {
+    text-align: Center;
+    width: 200px;
+    color: #41ACB0;
+
+
+}
